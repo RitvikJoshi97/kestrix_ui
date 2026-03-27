@@ -19,7 +19,7 @@ export default function Home() {
             <h1 className="text-base font-semibold text-[#3a2460]" style={{ fontFamily: "var(--font-figtree)" }}>
               Thermal Palette
             </h1>
-            <p className="text-xs text-[#9388a8]">Kestrix alignment service</p>
+            <p className="text-xs text-[#9388a8]">Ritvik's Alignment Service</p>
           </div>
         </div>
         <HealthBadge />
